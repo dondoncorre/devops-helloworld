@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "Good morning, Don!"
 echo "Hello Don, welcome to DevOps!"
 echo "Are you having fun?"
 
