@@ -1,7 +1,6 @@
 #!/bin/bash
-echo "Good morning, Don!"
+echo "Good afternoon, Don!"
 echo "Hello Don, welcome to DevOps!"
-echo "Are you having fun?"
 
 echo "This is an Samples Script from GitHub"
 echo "This is test from Linux Server"
