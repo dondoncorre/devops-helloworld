@@ -2,6 +2,7 @@
 echo "Good afternoon, Don!"
 echo "Hello Don, welcome to DevOps!"
 echo "Are you having fun?"
+echo "It's working! I don't need to use another repository"
 
 echo "This is an Samples Script from GitHub"
 echo "This is test from Linux Server"
